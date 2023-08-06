@@ -1,0 +1,7 @@
+.maincontainer img{
+    margin: 113px 350px;
+    border: 1px solid black;
+    height: 500px;
+    width: 500px;
+    border-radius: 15% 85% 30% 70% / 86% 21% 79% 14% ;
+}
